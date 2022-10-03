@@ -315,8 +315,8 @@ align-items: center;
     margin: 8px;
   }
 }
-/* ******************************** ACERCA DE MI ********************************* */
 
+/* ******************************** ACERCA DE MI ********************************* */
 main {
   display: flex;
   background-color: var(--background-color);
