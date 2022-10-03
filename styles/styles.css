@@ -357,7 +357,7 @@ main section p {
   height: 260px;
   flex-direction: row;
   margin-bottom: -10%;
-  overflow-x: scroll;
+  overflow-x: hidden;
   overflow-y: hidden;
 }
 .service-target{
@@ -406,7 +406,7 @@ main section p {
 .port-container{
   display: flex;
   flex-direction: row;
-  width: 98%;
+  width: 90%;
   column-gap: 20px;
   overflow: auto;
   
@@ -476,3 +476,6 @@ footer{
     height: 80px;
   }
 } 
+
+/* Profe el código quedó muy desordenado, sobre todo el del header, porque al comienzo pensé hacer la estructura del html y luego el css, pero me faltaban cosas y reacomodé, pero el css quedó horrible. Y al comenzar el mobile, empeoró je Pero no me daba el tiempo para reiniciar y entregarlo hoy.
+Creo que cumple con los requisitos pedidos, al menos lo mínimo. Igualmente ya comenzé a re hacerlo desde 0. */
