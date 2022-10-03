@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles/styles.css">
+  <title>Portfolio N°4</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="desktop-menu">
+        <a href="#" class="color-title">Home</a>
+        <a href="#">Servicios</a>
+        <a href="#">Acerca de mi</a>
+        <a href="#">Mis Habilidades</a>
+        <a href="#">Mi Portfolio</a>
+        <a href="#">Contacto</a> 
+      </div>
+      <div class="mobile-menu">
+        <a href="#">
+          <img class="small-icon"
+            src="./Extra/íconos/menu.svg" 
+            alt="menu"
+          />
+        </a>
+      </div>
+    </nav>
+
+    <div>
+      <h1>Soy</h1>
+      <div class="underline"></div>
+      <h1 class="color-title">Jorge</h1>
+      <h2> Marketing y diseñador UX/UI</h2>
+      <h2><span class="color-title"> 3 años</span> experiencia</h2>
+    </div>
+    
+    <div class="img-back" >
+      <img src="./Extra/Logos- Imágenes/photo desktop.png" alt="mi fotito ;)"
+      width="250px"
+      height="350px"/>
+    </div>
+    <div class="foot-back">
+      <div class="logo-foot-back">
+        <img class="large-icon" src="./Extra/íconos/google.svg" alt="G">
+      </div>
+        <img class="logo-foot-back" src="./Extra/íconos/amazon.svg" alt="A">
+      <img class="logo-foot-back" src="./Extra/íconos/spotify.svg" alt="S">
+    </div>
+    pie de foto
+  </header>
+
+  <main>
+    <section>
+      About me
+    </section>
+    <article>
+      Servicios con 3 imagenes
+    </article>
+
+    <article>Hability</article>
+    
+  </main>
+  <aside>Portfolio</aside>
+  <footer> CONTACTO / hecho con ❤ en Acaademlo </footer>
+</body>
+</html>

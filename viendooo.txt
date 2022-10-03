@@ -1,0 +1,20 @@
+<div class="title-container">
+      <div>
+        <h1>Soy</h1>
+        <div class="underline"></div>
+        <h1 class="color-title">Jorge</h1>
+        <h2> Marketing y <br> diseñador UX/UI <br></h2>
+        <h2><span class="color-title">3 años</span> experiencia</h2>
+      </div>
+      <div class="title-icon-container">
+        <div class="title-icon-target">
+          <img class="small-icon title-icon-target" src="./Extra/íconos/linkedin.svg" alt="">
+        </div>
+        <div class="title-icon-target">
+          <img class="small-icon title-icon-target" src="./Extra/íconos/instagram.svg" alt="">
+        </div>
+        <div class="title-icon-target">
+          <img class="small-icon title-icon-target" src="./Extra/íconos/twitter.svg" alt="">
+        </div>  
+      </div>
+    </div>

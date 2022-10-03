@@ -1,0 +1,11 @@
+porfolio
+
+CONSULTAS
+**color del background y el fondo de la foto...falta un color
+**agregue tamaño letra 12px al nav
+
+NOTAS
+**la barra de nav debe conducir a cada lugar
+**revisar el mobile-menu
+**revisar el % del underline
+**añadir links a los logos de IG y esas cosas
