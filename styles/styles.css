@@ -323,6 +323,7 @@ main {
   flex-direction: column;
   padding-top: 15%;
 }
+
 main section{
   display: flex;
   flex-direction: column;
@@ -405,11 +406,11 @@ main section p {
 .port-container{
   display: flex;
   flex-direction: row;
-  width: 100%;
+  width: 98%;
   column-gap: 20px;
   overflow: auto;
   
-  overflow-x: scroll;
+  overflow-x: hidden;
   overflow-y: hidden;
 } 
 
