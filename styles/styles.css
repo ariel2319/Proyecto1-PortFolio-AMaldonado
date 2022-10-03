@@ -336,6 +336,9 @@ main section p {
   justify-content: center;
   align-items: center;
 }
+main div h2:first-child{
+  margin-top: 80px;
+}
 @media screen and (max-width: 480px){
   main section p{
     width: 95%;
